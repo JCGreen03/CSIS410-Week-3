@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee</title>
+    <link rel="stylesheet" type="text/css" href="./CSS/Variables.css">
+</head>
+
+<body>
+
+<?php include ("./Components/variables.php"); ?>
+
+<?php include ("./Components/EmployeeArray.php"); ?>
+
+<?php include ("./components/Navbar.php"); ?>
+
+<?php include ("./Components/EmployeeUpdated.php"); ?>
+
+<?php include ("./Components/Footer.php"); ?>
+
+
+</body>
